@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Elite Shop of Computers - Contacts</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+    <header>
+
+        <div class="">
+            <span>ELITE</span> SHOP
+        </div>
+
+        <nav>
+
+            <a href="index.html">
+                Home
+            </a>
+
+            <a href="services.html">
+                Services
+            </a>
+
+            <a href="contacts.html"
+               class="active">
+                Contacts
+            </a>
+
+        </nav>
+
+    </header>
+
+    <section class="page-title">
+
+        <h1>Contact Us</h1>
+
+        <p>
+            We are ready to help you with your computer needs.
+        </p>
+
+    </section>
+
+    <section class="contact-section">
+
+        <div class="contact-info">
+
+            <h2>
+                Get In Touch
+            </h2>
+
+            <p>
+                <strong>Business Name:</strong>
+                Elite Shop of Computers
+            </p>
+
+            <p>
+                <strong>GAYAZA</strong>
+            </p>
+
+            <p>
+                <strong>0764575454</strong>
+            </p>
+
+
+            <p>
+                <strong>Opening Hours:</strong>
+                Monday - Saturday
+            </p>
+
+            <p>
+                <strong>Time:</strong>
+                8:00 AM - 6:00 PM
+            </p>
+
+        </div>
+
+            </form>
+
+        </div>
+
+    </section>
+
+    <footer>
+
+        <h3>
+            Elite Shop of Computers
+        </h3>
+
+        <p>
+            Quality Computers | Reliable Services
+        </p>
+
+        <p>
+            &copy; 2026 Elite Shop of Computers.
+            All Rights Reserved.
+        </p>
+
+    </footer>
+
+
+</body>
+</html>

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Elite Shop of Computers - Services</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+    <header>
+
+        <div class="logo">
+            <span>ELITE</span> SHOP
+        </div>
+
+        <nav>
+
+            <a href="index.html">
+                Home
+            </a>
+
+            <a href="services.html"
+               class="active">
+                Services
+            </a>
+
+            <a href="contacts.html">
+                Contacts
+            </a>
+
+        </nav>
+
+    </header>
+    <section class="page-title">
+
+        <h1>Our Services</h1>
+
+        <p>
+            Professional computer products and services
+            for individuals and businesses.
+        </p>
+
+    </section>
+
+
+    <section class="services">
+
+        <div class="service-card">
+
+            <div class="service">
+            </div>
+
+            <h2>
+                Computer Sales
+            </h2>
+
+            <p>
+                We sell quality desktop computers
+                and laptops suitable for students,
+                offices and homes.
+            </p>
+
+        </div>
+
+
+
+        <div class="service-card">
+
+            <div class="service">
+            </div>
+
+            <h2>
+                Computer Repair
+            </h2>
+
+            <p>
+                We diagnose and repair computer
+                hardware and software problems.
+            </p>
+
+        </div>
+
+
+
+        <div class="service-card">
+
+            <div class="service">
+            </div>
+
+            <h2>
+                Software Installation
+            </h2>
+
+            <p>
+                We install operating systems,
+                applications, drivers and other
+                computer software.
+            </p>
+
+        </div>
+
+
+
+        <div class="service-card">
+
+            <div class="service">
+            </div>
+
+            <h2>
+                Printer Services
+            </h2>
+            <p>
+                We provide printer installation,
+                configuration and troubleshooting.
+            </p>
+        </div>
+        <div class="service-card">
+
+            <div class="service">
+            </div>
+
+            <h2>
+                Computer Maintenance
+            </h2>
+            <p>
+                We maintain computers to improve
+                their performance and reliability.
+            </p>
+        </div>
+        <div class="service-card">
+
+            <div class="service">
+            </div>
+            <h2>
+                Computer Accessories
+            </h2>
+            <p>
+                We sell keyboards, flash disks,
+                headphones, cables and other accessories.
+            </p>
+
+        </div>
+
+    </section>
+
+</body>
+</html>

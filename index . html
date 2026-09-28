@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Elite Shop of Computers - Home</title>
+
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    
+    <header>
+
+        <div class="logo">
+            <span>ELITE</span> SHOP
+        </div>
+
+        <nav>
+            <a href="index.html" class="active">Home</a>
+            <a href="services.html">Services</a>
+            <a href="contacts.html">Contacts</a>
+        </nav>
+
+    </header>
+
+
+    
+    <section class="hero">
+
+        <div class="hero-text">
+
+            <p class="welcome">WELCOME TO</p>
+
+            <h1>
+                Elite Shop of
+                <span>Computers</span>
+            </h1>
+
+            <p>
+                Your trusted destination for quality computers,
+                laptops, accessories and reliable computer services.
+            </p>
+
+            <a href="services.html" class="btn">
+                View Our Services
+            </a>
+
+        </div>
+
+
+        <div class="hero-image">
+
+            <img src="business.jpg"
+                 alt="Elite Shop of Computers">
+
+        </div>
+
+    </section>
+
+
+
+    
+    <section class="about">
+
+        <h2>About Elite Shop of Computers</h2>
+
+        <p>
+            Elite Shop of Computers is a computer technology business
+            that provides quality,qauntity and affordable computer products
+            and services to students, schools, offices and individuals.
+        </p>
+
+        <p>
+            Our business focuses on selling computers and accessories,
+            repairing computers, installing software and providing
+            technical support to our customers.
+        </p>
+
+
+        <div class="business-cards">
+
+            <div class="card">
+
+                <div class="icon">💻</div>
+
+                <h3>Quality Computers</h3>
+
+                <p>
+                    We provide reliable laptops, desktops
+                    and other computer devices.
+                </p>
+
+            </div>
+
+
+            <div class="card">
+
+                <div class="icon">🔧</div>
+
+                <h3>Computer Repair</h3>
+
+                <p>
+                    We repair and maintain computers
+                    to keep them working efficiently.
+                </p>
+
+            </div>
+
+
+            <div class="card">
+
+                <div class="icon">⭐</div>
+
+                <h3>Customer Service</h3>
+
+                <p>
+                    We provide friendly and reliable
+                    services to our customers.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section class="directors">
+
+        <h2>Our Managing Directors</h2>
+
+        <p class="subtitle">
+            Elite Shop of Computers is managed by three dedicated members.
+        </p>
+
+
+        <div class="director-container">
+
+
+    
+            <div class="director-card">
+
+                <img src="WhatsApp Image 2026-09-28 at 08.40.02.jpeg"
+                     alt="Member 1">
+
+                <h3>
+                    SSEMWOGERERE YUSUF
+                </h3>
+
+                <p>
+                    <strong>26/BCN/BU/R 0001:</strong>
+                
+                </p>
+
+                <p>
+                    <strong>MANAGER</strong>
+                    
+                </p>
+
+            </div>
+
+
+            <div class="director-card">
+
+                <img src="WhatsApp Image 2026-09-28 at 08.32.30.jpeg"
+                     alt="Member 2">
+
+                <h3>
+                MIGISHA BINGOMA JOSEPH
+                </h3>
+
+                <p>
+                    <strong>25/BCN/BU/R 0007:</strong>
+                
+                </p>
+
+                <p>
+                    <strong>CASHIER:</strong>
+
+                </p>
+
+            </div>
+
+
+            <div class="director-card"
+            
+
+                <img src="WhatsApp Image 2026-09-28 at 08.37.58.jpeg"
+                     alt="Member 3">
+
+                <h3>
+                NAHURIRA MARVELLOUS
+                </h3>
+
+                <p>
+                    <strong>25/EDA/BU/R 0085:</strong>
+            
+                </p>
+
+                <p>
+                    <strong>SHOP ATTENDANT:</strong>
+                    
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+</body>
+</html>
